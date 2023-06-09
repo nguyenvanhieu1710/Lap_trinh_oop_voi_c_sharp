@@ -1,0 +1,8 @@
+C:\Users\NGUYEN VAN HIEU\Source\Repos\Lập trình OOP với C#\Lập trình OOP với C#\obj\Debug\Lập trình OOP với C#.csproj.AssemblyReference.cache
+C:\Users\NGUYEN VAN HIEU\Source\Repos\Lập trình OOP với C#\Lập trình OOP với C#\obj\Debug\Lập trình OOP với C#.csproj.SuggestedBindingRedirects.cache
+C:\Users\NGUYEN VAN HIEU\Source\Repos\Lập trình OOP với C#\Lập trình OOP với C#\obj\Debug\Lập trình OOP với C#.csproj.CoreCompileInputs.cache
+C:\Users\NGUYEN VAN HIEU\Source\Repos\Lập trình OOP với C#\Lập trình OOP với C#\bin\Debug\Lập trình OOP với C#.exe.config
+C:\Users\NGUYEN VAN HIEU\Source\Repos\Lập trình OOP với C#\Lập trình OOP với C#\bin\Debug\Lập trình OOP với C#.exe
+C:\Users\NGUYEN VAN HIEU\Source\Repos\Lập trình OOP với C#\Lập trình OOP với C#\bin\Debug\Lập trình OOP với C#.pdb
+C:\Users\NGUYEN VAN HIEU\Source\Repos\Lập trình OOP với C#\Lập trình OOP với C#\obj\Debug\Lập trình OOP với C#.exe
+C:\Users\NGUYEN VAN HIEU\Source\Repos\Lập trình OOP với C#\Lập trình OOP với C#\obj\Debug\Lập trình OOP với C#.pdb
